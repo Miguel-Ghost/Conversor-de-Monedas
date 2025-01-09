@@ -168,7 +168,7 @@ public class NombreMoneda {
     }
 
 
-    public static Map<String, String> getCurrencyNames() {
+    public static Map<String, String> getNombreMoneda() {
         return nombreMoneda;
     }
 
