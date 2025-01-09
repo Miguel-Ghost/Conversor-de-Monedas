@@ -25,7 +25,7 @@ Para ejecutar el proyecto, necesitas lo siguiente:
 1. Clona este repositorio o descarga los archivos del proyecto:
 
    ```bash
-   git clone https://github.com/tu-usuario/conversor-monedas.git
+   git clone https://github.com/Miguel-Ghost/Conversor-de-Monedas.git
    ```
 
 2. Asegúrate de que las dependencias estén disponibles en tu proyecto. Si usas un administrador de dependencias como Maven, incluye `Gson` en tu archivo `pom.xml`:
